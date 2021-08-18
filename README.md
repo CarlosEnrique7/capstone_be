@@ -12,9 +12,11 @@ Mentors Names: **Tre Kendrick | William Ma**
 
 Many investors see the potential and value of cryptocurrencies but do not own any crypto due to a lack of established trust or knowledge with the cryptocurrency market. Our platform will act as a learning platform for new investors to learn about and understand the tokenomics of different cryptocurrencies through a variety of means which include currated lessons/information, a paper trading simulator, and the latest aggregated news relating to cryptocurrencies.
 
-Planning Repository: https://github.com/SITE-Capstone/capstone_plan
+Planning Repository: https://github.com/CarlosEnrique7/capstone_plan
 
 Frontend Repository: https://github.com/SITE-Capstone/capstone_fe 
+
+Project: https://github.com/SITE-Capstone
 
 Deployment Website: https://kurios.surge.sh
 
